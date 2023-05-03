@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pavan!
 - 👀 I’m interested in full stack development and machine learning
-- 🌱 I’m currently learning Springboot
+- 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me - [Email](mailto:pavansomashekar97@gmail.com), [LinkedIn](https://www.linkedin.com/in/pavansshekar/)
