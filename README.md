@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pavan!
-- 👀 I’m interested in full stack development, cloud computing and machine learning
+- 👀 I’m interested in full stack development and cloud computing
 - 📫 How to reach me - [Email](mailto:pavansomashekar97@gmail.com), [LinkedIn](https://www.linkedin.com/in/pavansshekar/), [Personal Website](https://pavanshekar.github.io/portfolio/)
