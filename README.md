@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Pavan!
+- 🎓Grad @Northeastern University
+- 💻 Software Engineer | Full Stack Developer | Red Hat
 - 👀 I’m interested in full stack development and cloud computing
 - 📫 How to reach me - [Email](mailto:pavansomashekar97@gmail.com), [LinkedIn](https://www.linkedin.com/in/pavansshekar/), [Personal Website](https://pavanshekar.github.io/portfolio/)
